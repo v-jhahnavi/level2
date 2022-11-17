@@ -1,0 +1,16 @@
+{
+  "name": "level_two_final_program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usama Ahmed <ahmedsumama7@gmail.com>",
+  "license": "ISC"
+}
+
